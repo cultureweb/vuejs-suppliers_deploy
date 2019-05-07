@@ -9,7 +9,7 @@ import './registerServiceWorker'
 Vue.use(VueRouter)
 Vue.use(VueGoogleMaps, {
   load: {
-    key: apiKey,
+    key: 'AIzaSyB_rUFcZii_mHfRgddtI0e_lgK6cQj7fG4',
   }
 })
 Vue.config.productionTip = false
